@@ -1,0 +1,16 @@
+body{
+    background-color: aliceblue;
+    text-align: center;
+}
+.first_heading{
+    color: blue;
+    font-style:oblique;
+    
+}
+.makeborder{
+    border-color: chartreuse;
+    border-width: 5px;
+    border-style: solid;
+    margin: auto;
+    
+}
